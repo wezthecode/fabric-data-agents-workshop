@@ -1,0 +1,199 @@
+ItemID,ItemName,Category,SubCategory,UnitPrice,UnitCost
+I0001,Road A23,Bikes,Road,1424.03,783.05
+I0002,Road B94,Bikes,Road,2421.42,1169.75
+I0003,Road C78,Bikes,Road,2464.14,1545.35
+I0004,Road D74,Bikes,Road,2438.86,1683.28
+I0005,Road E91,Bikes,Road,2521.35,1846.3
+I0006,Road F49,Bikes,Road,2889.56,2005.58
+I0007,Road G96,Bikes,Road,2666.84,1684.54
+I0008,Road H37,Bikes,Road,2752.92,1690.68
+I0009,Gravel A53,Bikes,Gravel,948.56,678.51
+I0010,Gravel B37,Bikes,Gravel,710.43,398.14
+I0011,Gravel C86,Bikes,Gravel,533.51,355.14
+I0012,Gravel D60,Bikes,Gravel,1837.55,1140.46
+I0013,Gravel E73,Bikes,Gravel,2797.36,2027.58
+I0014,Gravel F86,Bikes,Gravel,1275.42,617.32
+I0015,City A36,Bikes,City,2886.01,1965.95
+I0016,City B33,Bikes,City,1259.12,834.88
+I0017,City C61,Bikes,City,1917.05,1122.43
+I0018,City D62,Bikes,City,567.69,305.41
+I0019,City E25,Bikes,City,3004.04,1431.61
+I0020,City F13,Bikes,City,923.8,663.88
+I0021,City G33,Bikes,City,2061.1,1445.69
+I0022,City H62,Bikes,City,1047.14,486.89
+I0023,Mountain A62,Bikes,Mountain,2620.15,1715.21
+I0024,Mountain B70,Bikes,Mountain,2407.67,1630.94
+I0025,Mountain C89,Bikes,Mountain,2956.23,1662.0
+I0026,Mountain D34,Bikes,Mountain,2364.51,1529.0
+I0027,Mountain E85,Bikes,Mountain,505.22,297.14
+I0028,Mountain F83,Bikes,Mountain,1291.49,645.49
+I0029,Mountain G88,Bikes,Mountain,2645.46,1300.53
+I0030,Mountain H61,Bikes,Mountain,2135.68,978.11
+I0031,Mountain I20,Bikes,Mountain,3041.66,1862.3
+I0032,Mountain J55,Bikes,Mountain,3022.55,1864.56
+I0033,Mountain K51,Bikes,Mountain,2530.05,1888.39
+I0034,Electric A10,Bikes,Electric,2904.59,1766.32
+I0035,Electric B70,Bikes,Electric,1422.33,711.42
+I0036,Electric C67,Bikes,Electric,3018.64,1487.74
+I0037,Electric D82,Bikes,Electric,2906.66,1780.2
+I0038,Electric E74,Bikes,Electric,1651.32,967.2
+I0039,Kids A25,Bikes,Kids,2586.05,1375.16
+I0040,Kids B66,Bikes,Kids,1224.47,746.67
+I0041,Kids C90,Bikes,Kids,754.12,460.69
+I0042,Kids D15,Bikes,Kids,1179.39,641.51
+I0043,Kids E97,Bikes,Kids,710.35,449.95
+I0044,Kids F28,Bikes,Kids,2233.94,1239.56
+I0045,Kids G14,Bikes,Kids,2650.02,1564.38
+I0046,Kids H50,Bikes,Kids,2395.08,1766.29
+I0047,Kids I65,Bikes,Kids,1077.89,489.14
+I0048,Kids J77,Bikes,Kids,2970.86,2017.18
+I0049,Kids K42,Bikes,Kids,3040.79,1820.86
+I0050,Kids L56,Bikes,Kids,1039.82,681.46
+I0051,Chain A42,Components,Chain,203.6,116.9
+I0052,Chain B46,Components,Chain,314.41,211.61
+I0053,Chain C73,Components,Chain,557.83,252.45
+I0054,Chain D91,Components,Chain,436.4,312.63
+I0055,Chain E49,Components,Chain,495.83,328.71
+I0056,Chain F42,Components,Chain,496.59,243.93
+I0057,Chain G98,Components,Chain,595.47,378.99
+I0058,Chain H73,Components,Chain,167.99,103.75
+I0059,Chain I56,Components,Chain,233.97,168.81
+I0060,Chain J28,Components,Chain,585.25,387.53
+I0061,Cassette A59,Components,Cassette,137.77,67.93
+I0062,Cassette B40,Components,Cassette,618.55,280.36
+I0063,Cassette C47,Components,Cassette,65.93,34.21
+I0064,Cassette D71,Components,Cassette,182.96,113.63
+I0065,Cassette E62,Components,Cassette,394.67,208.28
+I0066,Cassette F84,Components,Cassette,455.06,224.62
+I0067,Brake Set A35,Components,Brake Set,292.07,200.28
+I0068,Brake Set B44,Components,Brake Set,590.81,370.67
+I0069,Brake Set C31,Components,Brake Set,349.08,213.38
+I0070,Brake Set D14,Components,Brake Set,404.98,258.46
+I0071,Brake Set E19,Components,Brake Set,57.84,30.73
+I0072,Brake Set F61,Components,Brake Set,133.62,70.03
+I0073,Brake Set G48,Components,Brake Set,360.37,184.75
+I0074,Brake Set H98,Components,Brake Set,189.86,99.2
+I0075,Wheelset A52,Components,Wheelset,273.59,137.5
+I0076,Wheelset B76,Components,Wheelset,561.56,343.85
+I0077,Wheelset C54,Components,Wheelset,449.62,335.41
+I0078,Wheelset D40,Components,Wheelset,543.62,376.68
+I0079,Wheelset E25,Components,Wheelset,47.5,27.08
+I0080,Crankset A64,Components,Crankset,37.9,22.66
+I0081,Crankset B83,Components,Crankset,343.68,242.19
+I0082,Crankset C98,Components,Crankset,389.1,205.28
+I0083,Crankset D63,Components,Crankset,169.18,108.48
+I0084,Crankset E11,Components,Crankset,333.97,232.39
+I0085,Crankset F34,Components,Crankset,267.93,186.32
+I0086,Crankset G58,Components,Crankset,255.59,146.35
+I0087,Crankset H70,Components,Crankset,604.05,313.11
+I0088,Crankset I84,Components,Crankset,583.35,402.47
+I0089,Crankset J20,Components,Crankset,497.83,303.56
+I0090,Derailleur A84,Components,Derailleur,455.04,333.27
+I0091,Derailleur B74,Components,Derailleur,107.04,57.96
+I0092,Derailleur C19,Components,Derailleur,418.6,310.76
+I0093,Derailleur D62,Components,Derailleur,506.13,373.81
+I0094,Derailleur E17,Components,Derailleur,185.07,114.99
+I0095,Derailleur F62,Components,Derailleur,314.18,235.26
+I0096,Saddle A86,Components,Saddle,355.11,227.79
+I0097,Saddle B66,Components,Saddle,411.32,245.21
+I0098,Saddle C98,Components,Saddle,253.8,124.95
+I0099,Saddle D58,Components,Saddle,137.77,74.94
+I0100,Saddle E10,Components,Saddle,286.27,169.1
+I0101,Saddle F72,Components,Saddle,255.95,139.26
+I0102,Saddle G20,Components,Saddle,638.45,338.01
+I0103,Saddle H46,Components,Saddle,160.16,74.34
+I0104,Saddle I38,Components,Saddle,374.52,251.58
+I0105,Saddle J84,Components,Saddle,301.59,208.58
+I0106,Saddle K38,Components,Saddle,412.79,287.15
+I0107,Jersey A83,Apparel,Jersey,65.11,38.97
+I0108,Jersey B23,Apparel,Jersey,120.85,79.3
+I0109,Jersey C83,Apparel,Jersey,67.43,44.85
+I0110,Jersey D27,Apparel,Jersey,123.79,76.68
+I0111,Jersey E11,Apparel,Jersey,154.08,114.07
+I0112,Bib Shorts A15,Apparel,Bib Shorts,159.6,108.44
+I0113,Bib Shorts B57,Apparel,Bib Shorts,142.83,94.84
+I0114,Bib Shorts C62,Apparel,Bib Shorts,106.13,60.96
+I0115,Bib Shorts D66,Apparel,Bib Shorts,136.5,87.17
+I0116,Bib Shorts E26,Apparel,Bib Shorts,32.87,23.3
+I0117,Bib Shorts F53,Apparel,Bib Shorts,98.01,55.33
+I0118,Bib Shorts G45,Apparel,Bib Shorts,44.42,31.15
+I0119,Bib Shorts H98,Apparel,Bib Shorts,109.26,50.92
+I0120,Bib Shorts I59,Apparel,Bib Shorts,39.17,27.95
+I0121,Bib Shorts J56,Apparel,Bib Shorts,67.7,50.1
+I0122,Rain Jacket A79,Apparel,Rain Jacket,156.03,88.18
+I0123,Rain Jacket B39,Apparel,Rain Jacket,68.81,46.79
+I0124,Rain Jacket C85,Apparel,Rain Jacket,79.19,48.89
+I0125,Rain Jacket D60,Apparel,Rain Jacket,178.37,86.97
+I0126,Rain Jacket E56,Apparel,Rain Jacket,70.98,41.08
+I0127,Rain Jacket F26,Apparel,Rain Jacket,106.47,58.3
+I0128,Rain Jacket G22,Apparel,Rain Jacket,133.6,79.6
+I0129,Rain Jacket H54,Apparel,Rain Jacket,100.36,60.3
+I0130,Rain Jacket I62,Apparel,Rain Jacket,14.06,8.95
+I0131,Rain Jacket J32,Apparel,Rain Jacket,88.06,54.57
+I0132,Rain Jacket K52,Apparel,Rain Jacket,27.68,16.88
+I0133,Gloves A44,Apparel,Gloves,50.28,23.71
+I0134,Gloves B58,Apparel,Gloves,65.61,32.22
+I0135,Gloves C48,Apparel,Gloves,126.59,72.26
+I0136,Gloves D44,Apparel,Gloves,55.64,31.23
+I0137,Gloves E73,Apparel,Gloves,134.88,71.66
+I0138,Gloves F31,Apparel,Gloves,169.56,111.67
+I0139,Gloves G21,Apparel,Gloves,39.83,19.75
+I0140,Gloves H63,Apparel,Gloves,65.08,41.59
+I0141,Gloves I67,Apparel,Gloves,126.4,72.59
+I0142,Socks A64,Apparel,Socks,78.22,50.91
+I0143,Socks B36,Apparel,Socks,140.22,98.26
+I0144,Socks C58,Apparel,Socks,98.18,68.69
+I0145,Socks D26,Apparel,Socks,109.92,58.81
+I0146,Socks E75,Apparel,Socks,121.83,81.88
+I0147,Socks F53,Apparel,Socks,91.69,48.18
+I0148,Socks G94,Apparel,Socks,108.12,50.2
+I0149,Helmet A26,Accessories,Helmet,215.94,109.57
+I0150,Helmet B45,Accessories,Helmet,211.49,120.02
+I0151,Helmet C77,Accessories,Helmet,39.45,21.47
+I0152,Helmet D13,Accessories,Helmet,176.33,92.74
+I0153,Helmet E41,Accessories,Helmet,81.76,43.79
+I0154,Helmet F38,Accessories,Helmet,175.65,110.27
+I0155,Helmet G60,Accessories,Helmet,210.05,123.14
+I0156,Light Set A11,Accessories,Light Set,49.19,31.97
+I0157,Light Set B92,Accessories,Light Set,142.61,101.12
+I0158,Light Set C63,Accessories,Light Set,38.03,24.03
+I0159,Light Set D41,Accessories,Light Set,97.55,58.31
+I0160,Light Set E77,Accessories,Light Set,11.19,6.65
+I0161,Light Set F83,Accessories,Light Set,52.85,37.6
+I0162,Light Set G11,Accessories,Light Set,195.49,140.92
+I0163,Light Set H63,Accessories,Light Set,9.32,5.55
+I0164,Light Set I51,Accessories,Light Set,94.84,65.67
+I0165,Lock A14,Accessories,Lock,173.44,128.95
+I0166,Lock B74,Accessories,Lock,149.31,71.8
+I0167,Lock C66,Accessories,Lock,194.97,94.24
+I0168,Lock D53,Accessories,Lock,165.57,90.8
+I0169,Lock E30,Accessories,Lock,36.93,23.45
+I0170,Lock F56,Accessories,Lock,157.55,84.83
+I0171,Lock G59,Accessories,Lock,121.19,68.39
+I0172,Lock H73,Accessories,Lock,114.42,79.83
+I0173,Lock I65,Accessories,Lock,74.31,55.04
+I0174,Lock J47,Accessories,Lock,28.32,13.03
+I0175,Lock K65,Accessories,Lock,28.0,14.49
+I0176,Pump A34,Accessories,Pump,199.52,114.65
+I0177,Pump B93,Accessories,Pump,167.81,85.53
+I0178,Pump C63,Accessories,Pump,88.48,50.72
+I0179,Pump D35,Accessories,Pump,36.5,27.28
+I0180,Pump E62,Accessories,Pump,198.99,123.07
+I0181,Pump F48,Accessories,Pump,183.81,98.11
+I0182,Pump G56,Accessories,Pump,126.13,89.83
+I0183,Pump H48,Accessories,Pump,37.44,23.66
+I0184,Bottle Cage A53,Accessories,Bottle Cage,16.37,8.01
+I0185,Bottle Cage B17,Accessories,Bottle Cage,83.55,38.44
+I0186,Bottle Cage C47,Accessories,Bottle Cage,196.26,109.58
+I0187,Bottle Cage D75,Accessories,Bottle Cage,133.13,69.78
+I0188,Bottle Cage E95,Accessories,Bottle Cage,20.64,13.17
+I0189,Bag A52,Accessories,Bag,101.93,48.19
+I0190,Bag B13,Accessories,Bag,55.26,27.98
+I0191,Bag C41,Accessories,Bag,173.93,117.83
+I0192,Bag D89,Accessories,Bag,30.46,21.71
+I0193,Bag E83,Accessories,Bag,98.91,52.91
+I0194,Bag F71,Accessories,Bag,23.47,13.45
+I0195,Bag G51,Accessories,Bag,174.25,101.52
+I0196,Bag H45,Accessories,Bag,213.45,144.65
+I0197,Bag I28,Accessories,Bag,195.9,134.56
+I0198,Bag J88,Accessories,Bag,167.85,81.95

@@ -1,0 +1,401 @@
+CustomerID,CustomerName,CountryCode,Country,Segment,CreditLimit,PaymentTermsDays,Status
+C0001,Zennozen Velo,PT,Portugal,Retail,7500.0,45,Active
+C0002,Dolinve Outdoor,PT,Portugal,Wholesale,30000.0,45,Active
+C0003,Berzenpor Trading,PT,Portugal,Wholesale,60000,30,Active
+C0004,Tasalo Ride Shop,ES,Spain,Online,8000,60,Active
+C0005,Venocor Bike Co,PT,Portugal,Online,12000.0,14,Active
+C0006,Velbersa Cycles,FR,France,Wholesale,120000,14,Active
+C0007,Tamido Bikes,FR,France,Wholesale,30000.0,14,Active
+C0008,Zenvelpor Sports,PT,Portugal,Retail,15000,60,Active
+C0009,Cormisa Ride Shop,GB,United Kingdom,Retail,30000,30,On Hold
+C0010,Pormicor Trading,PT,Portugal,Retail,15000,45,Active
+C0011,Rasapor Velo,PT,Portugal,Wholesale,90000.0,45,Active
+C0012,Sazencor Outdoor,PT,Portugal,Wholesale,60000,45,Active
+C0013,Porlomi Cycles,PT,Portugal,Retail,22500.0,60,Active
+C0014,Tavequi Outdoor,PT,Portugal,Wholesale,60000,14,Active
+C0015,Miveno Ride Shop,GB,United Kingdom,Wholesale,60000,60,Active
+C0016,Pordosa Velo,NL,Netherlands,Wholesale,60000,45,On Hold
+C0017,Tanovel Velo,ES,Spain,Wholesale,30000.0,30,Active
+C0018,Lopormi Velo,ES,Spain,Online,16000,60,Active
+C0019,Vebersa Bikes,FR,France,Retail,30000,14,Active
+C0020,Losazen Velo,ES,Spain,Wholesale,60000,30,Active
+C0021,Quivellin Velo,PT,Portugal,Retail,30000,30,Active
+C0022,Notami Outdoor,FR,France,Wholesale,30000.0,60,On Hold
+C0023,Nolinpor Ride Shop,ES,Spain,Wholesale,60000,14,Active
+C0024,Noquisa Bikes,PT,Portugal,Retail,22500.0,60,On Hold
+C0025,Velove Bike Co,ES,Spain,Wholesale,60000,60,Active
+C0026,Raveno Outdoor,PT,Portugal,Wholesale,90000.0,45,Active
+C0027,Vemaqui Ride Shop,NL,Netherlands,Online,8000,60,Active
+C0028,Mivelma Bike Co,GB,United Kingdom,Retail,15000,45,On Hold
+C0029,Mirata Bike Co,NL,Netherlands,Retail,30000,30,Active
+C0030,Tamara Trading,PT,Portugal,Wholesale,30000.0,14,Active
+C0031,Mivelsa Bikes,PT,Portugal,Retail,22500.0,30,Active
+C0032,Porporsa Trading,FR,France,Retail,7500.0,60,Active
+C0033,Lonono Trading,DE,Germany,Retail,15000,30,Active
+C0034,Velzenta Cycles,PT,Portugal,Retail,30000,60,Active
+C0035,Zenveta Outdoor,FR,France,Wholesale,120000,30,On Hold
+C0036,Porlinve Sports,PT,Portugal,Wholesale,60000,45,Active
+C0037,Mazenlin Ride Shop,ES,Spain,Online,12000.0,60,Active
+C0038,Linravel Bikes,FR,France,Wholesale,60000,30,Active
+C0039,Maberra Outdoor,PT,Portugal,Retail,15000,30,Active
+C0040,Talopor Bike Co,PT,Portugal,Wholesale,60000,14,Active
+C0041,Berdoma Bikes,NL,Netherlands,Retail,22500.0,60,Active
+C0042,Porlinma Outdoor,PT,Portugal,Retail,22500.0,60,Active
+C0043,Zenvequi Velo,FR,France,Retail,22500.0,60,Active
+C0044,Vevesa Velo,PT,Portugal,Online,8000,60,On Hold
+C0045,Doveno Ride Shop,PT,Portugal,Wholesale,30000.0,14,Active
+C0046,Bermacor Ride Shop,FR,France,Retail,22500.0,60,Active
+C0047,Loberber Trading,PT,Portugal,Retail,15000,45,Active
+C0048,Linsapor Cycles,GB,United Kingdom,Retail,15000,30,Active
+C0049,Berberve Outdoor,DE,Germany,Retail,15000,14,Active
+C0050,Dozenvel Outdoor,ES,Spain,Wholesale,60000,60,Active
+C0051,Bercorlo Bike Co,FR,France,Retail,22500.0,14,Active
+C0052,Doquilo Sports,FR,France,Retail,15000,45,Active
+C0053,Corporzen Bike Co,ES,Spain,Wholesale,90000.0,60,Active
+C0054,Quimicor Ride Shop,ES,Spain,Wholesale,60000,45,Active
+C0055,Taberqui Ride Shop,NL,Netherlands,Online,8000,30,Active
+C0056,Zenzencor Velo,DE,Germany,Wholesale,60000,14,Active
+C0057,Mamilo Bike Co,ES,Spain,Retail,22500.0,30,Active
+C0058,Linquicor Outdoor,PT,Portugal,Retail,22500.0,60,Active
+C0059,Miporcor Velo,ES,Spain,Wholesale,60000,45,Active
+C0060,Quilinra Cycles,FR,France,Retail,7500.0,45,Active
+C0061,Porzensa Cycles,FR,France,Wholesale,120000,30,Active
+C0062,Noporma Outdoor,NL,Netherlands,Retail,15000,30,Active
+C0063,Misalin Bikes,PT,Portugal,Wholesale,60000,30,Active
+C0064,Vellinlo Velo,ES,Spain,Online,8000,45,Active
+C0065,Maquivel Sports,ES,Spain,Retail,7500.0,60,Active
+C0066,Zendove Ride Shop,ES,Spain,Retail,15000,60,Active
+C0067,Dolinber Outdoor,ES,Spain,Retail,15000,14,Active
+C0068,Raporsa Velo,GB,United Kingdom,Wholesale,120000,60,Active
+C0069,Ramapor Bikes,FR,France,Retail,15000,30,Active
+C0070,Malolin Cycles,ES,Spain,Wholesale,60000,45,Active
+C0071,Salindo Trading,ES,Spain,Retail,7500.0,30,Active
+C0072,Nodolo Outdoor,ES,Spain,Retail,30000,60,On Hold
+C0073,Mamizen Sports,PT,Portugal,Online,12000.0,60,Active
+C0074,Vesave Trading,ES,Spain,Wholesale,60000,45,Active
+C0075,Berraber Trading,NL,Netherlands,Retail,22500.0,14,Active
+C0076,Zenmalo Velo,PT,Portugal,Wholesale,60000,60,Active
+C0077,Corcorlin Bikes,ES,Spain,Retail,22500.0,60,Active
+C0078,Zenmino Bikes,GB,United Kingdom,Retail,7500.0,45,Active
+C0079,Porraqui Sports,ES,Spain,Retail,15000,45,Active
+C0080,Lintavel Ride Shop,DE,Germany,Wholesale,120000,45,Active
+C0081,Berquiqui Trading,NL,Netherlands,Retail,15000,30,Active
+C0082,Marazen Velo,ES,Spain,Wholesale,120000,60,Active
+C0083,Zenquiber Velo,FR,France,Wholesale,30000.0,45,Active
+C0084,Lindocor Bikes,ES,Spain,Wholesale,60000,60,Active
+C0085,Velberqui Trading,PT,Portugal,Retail,7500.0,14,Active
+C0086,Zenrara Velo,PT,Portugal,Wholesale,60000,30,Active
+C0087,Tanora Ride Shop,ES,Spain,Wholesale,60000,30,Active
+C0088,Velberqui Velo,ES,Spain,Wholesale,60000,30,Active
+C0089,Zenlosa Bike Co,FR,France,Wholesale,30000.0,60,Active
+C0090,Velberlin Velo,ES,Spain,Retail,30000,30,Active
+C0091,Corrama Ride Shop,FR,France,Retail,22500.0,30,Active
+C0092,Zenpormi Cycles,GB,United Kingdom,Wholesale,120000,14,Active
+C0093,Quilindo Sports,ES,Spain,Retail,15000,45,Active
+C0094,Velzenta Bikes,GB,United Kingdom,Retail,15000,60,Active
+C0095,Mizenta Cycles,GB,United Kingdom,Online,12000.0,30,Active
+C0096,Razenvel Cycles,DE,Germany,Online,8000,60,Active
+C0097,Venodo Ride Shop,ES,Spain,Online,4000.0,14,Active
+C0098,Dorama Cycles,NL,Netherlands,Wholesale,60000,60,On Hold
+C0099,Vetapor Velo,PT,Portugal,Wholesale,90000.0,60,Active
+C0100,Quisara Bikes,ES,Spain,Retail,22500.0,60,Active
+C0101,Salincor Outdoor,PT,Portugal,Retail,15000,30,Active
+C0102,Tadomi Trading,ES,Spain,Retail,15000,30,Active
+C0103,Losalin Trading,FR,France,Wholesale,120000,14,Active
+C0104,Taporra Ride Shop,FR,France,Retail,15000,14,Active
+C0105,Berquita Bike Co,GB,United Kingdom,Online,12000.0,14,Active
+C0106,Lovelber Cycles,PT,Portugal,Wholesale,60000,30,Active
+C0107,Zencorta Bike Co,DE,Germany,Retail,15000,60,Active
+C0108,Nomira Ride Shop,FR,France,Retail,30000,45,Active
+C0109,Nolincor Bikes,ES,Spain,Retail,15000,45,Active
+C0110,Corraqui Trading,PT,Portugal,Wholesale,30000.0,30,Active
+C0111,Ratacor Trading,DE,Germany,Retail,7500.0,45,Active
+C0112,Talinmi Sports,DE,Germany,Online,16000,45,Active
+C0113,Bermata Trading,FR,France,Wholesale,30000.0,30,Active
+C0114,Domipor Ride Shop,PT,Portugal,Retail,15000,30,Active
+C0115,Linrapor Sports,ES,Spain,Retail,7500.0,14,Active
+C0116,Donoma Bikes,FR,France,Retail,7500.0,60,Active
+C0117,Sataber Outdoor,ES,Spain,Retail,30000,30,Active
+C0118,Vetaqui Velo,GB,United Kingdom,Retail,15000,60,Active
+C0119,Zencorta Outdoor,GB,United Kingdom,Retail,15000,14,Active
+C0120,Lovelno Sports,GB,United Kingdom,Wholesale,60000,45,Active
+C0121,Saveldo Trading,PT,Portugal,Retail,30000,45,Active
+C0122,Norami Outdoor,PT,Portugal,Wholesale,30000.0,30,Active
+C0123,Ramiqui Bikes,FR,France,Wholesale,120000,14,On Hold
+C0124,Doloqui Cycles,ES,Spain,Retail,30000,14,Active
+C0125,Bermisa Sports,PT,Portugal,Wholesale,60000,45,Active
+C0126,Corsasa Bike Co,DE,Germany,Wholesale,90000.0,60,Active
+C0127,Veporra Ride Shop,PT,Portugal,Retail,7500.0,30,Active
+C0128,Nolindo Trading,FR,France,Retail,22500.0,60,Active
+C0129,Saveta Sports,PT,Portugal,Retail,15000,30,Active
+C0130,Bernoqui Sports,PT,Portugal,Retail,30000,60,Active
+C0131,Lovelmi Velo,GB,United Kingdom,Retail,7500.0,45,Active
+C0132,Savelcor Trading,ES,Spain,Wholesale,90000.0,30,Active
+C0133,Domilo Ride Shop,NL,Netherlands,Retail,30000,60,Active
+C0134,Mavevel Outdoor,ES,Spain,Retail,22500.0,45,Active
+C0135,Corcordo Outdoor,FR,France,Retail,15000,14,Active
+C0136,Savelin Trading,PT,Portugal,Retail,7500.0,30,Active
+C0137,Locorsa Velo,PT,Portugal,Retail,15000,60,Active
+C0138,Salinra Outdoor,PT,Portugal,Online,16000,14,Active
+C0139,Vetado Outdoor,PT,Portugal,Retail,7500.0,45,On Hold
+C0140,Berveldo Outdoor,PT,Portugal,Retail,7500.0,14,Active
+C0141,Linpormi Velo,FR,France,Retail,15000,60,Active
+C0142,Corzenra Bike Co,PT,Portugal,Online,8000,60,Active
+C0143,Zenrata Cycles,PT,Portugal,Wholesale,120000,45,Active
+C0144,Misacor Trading,DE,Germany,Retail,22500.0,30,Active
+C0145,Lobermi Cycles,GB,United Kingdom,Wholesale,60000,30,Active
+C0146,Nodora Cycles,FR,France,Wholesale,120000,45,On Hold
+C0147,Pordosa Trading,PT,Portugal,Retail,7500.0,30,Active
+C0148,Vecorlin Bike Co,DE,Germany,Retail,15000,30,Active
+C0149,Linvelno Outdoor,GB,United Kingdom,Online,4000.0,45,Active
+C0150,Sanota Bikes,PT,Portugal,Wholesale,30000.0,45,Active
+C0151,Tadora Sports,DE,Germany,Retail,7500.0,45,Active
+C0152,Lonomi Bike Co,GB,United Kingdom,Wholesale,60000,45,Active
+C0153,Zenporve Outdoor,ES,Spain,Retail,15000,30,Active
+C0154,Miquisa Outdoor,PT,Portugal,Retail,30000,30,Active
+C0155,Midolin Sports,PT,Portugal,Wholesale,60000,14,Active
+C0156,Quimami Sports,ES,Spain,Wholesale,60000,14,Active
+C0157,Nonoma Cycles,GB,United Kingdom,Wholesale,60000,45,Active
+C0158,Tarano Cycles,PT,Portugal,Retail,15000,45,Active
+C0159,Doporlin Trading,FR,France,Online,16000,30,Active
+C0160,Raberta Bikes,NL,Netherlands,Retail,30000,45,Active
+C0161,Tamapor Bike Co,PT,Portugal,Retail,15000,14,Active
+C0162,Berlota Ride Shop,PT,Portugal,Online,16000,60,Active
+C0163,Corsasa Bike Co,FR,France,Wholesale,30000.0,60,Active
+C0164,Lintama Sports,PT,Portugal,Retail,22500.0,60,Active
+C0165,Corvelzen Bike Co,PT,Portugal,Online,12000.0,30,Active
+C0166,Noporma Bikes,PT,Portugal,Retail,30000,60,Active
+C0167,Samave Bikes,PT,Portugal,Retail,7500.0,30,Active
+C0168,Mizencor Outdoor,PT,Portugal,Online,8000,60,Active
+C0169,Sacorlo Cycles,DE,Germany,Online,4000.0,60,Active
+C0170,Vezencor Outdoor,ES,Spain,Wholesale,90000.0,45,Active
+C0171,Noquino Trading,PT,Portugal,Wholesale,60000,14,Active
+C0172,Norama Outdoor,ES,Spain,Retail,22500.0,45,Active
+C0173,Mamiber Trading,GB,United Kingdom,Online,8000,45,Active
+C0174,Nololo Bike Co,FR,France,Retail,7500.0,14,Active
+C0175,Doberra Outdoor,ES,Spain,Wholesale,60000,30,Active
+C0176,Loquita Sports,FR,France,Retail,15000,60,Active
+C0177,Tazensa Ride Shop,ES,Spain,Wholesale,120000,30,Active
+C0178,Cortama Trading,PT,Portugal,Retail,22500.0,45,Active
+C0179,Bertave Bikes,DE,Germany,Retail,30000,14,Active
+C0180,Velbersa Cycles,GB,United Kingdom,Retail,15000,30,Active
+C0181,Bertavel Outdoor,GB,United Kingdom,Retail,22500.0,30,Active
+C0182,Maberma Sports,GB,United Kingdom,Retail,30000,30,Active
+C0183,Nozenve Bikes,PT,Portugal,Retail,30000,14,Active
+C0184,Misata Velo,PT,Portugal,Retail,7500.0,14,Active
+C0185,Vedoqui Trading,NL,Netherlands,Retail,15000,60,Active
+C0186,Tamapor Sports,FR,France,Online,16000,30,Active
+C0187,Berquive Trading,PT,Portugal,Retail,30000,14,On Hold
+C0188,Quimimi Cycles,PT,Portugal,Retail,15000,45,Active
+C0189,Verama Trading,PT,Portugal,Wholesale,90000.0,60,Active
+C0190,Vellodo Sports,ES,Spain,Online,4000.0,30,Active
+C0191,Quilinzen Outdoor,ES,Spain,Retail,15000,60,Active
+C0192,Nocorno Bike Co,ES,Spain,Wholesale,30000.0,60,Active
+C0193,Quirasa Ride Shop,PT,Portugal,Wholesale,30000.0,30,Active
+C0194,Linrama Trading,PT,Portugal,Wholesale,120000,45,Active
+C0195,Vecordo Outdoor,FR,France,Retail,30000,60,Active
+C0196,Tavelmi Trading,PT,Portugal,Wholesale,60000,45,Active
+C0197,Domira Sports,FR,France,Wholesale,90000.0,60,Active
+C0198,Mamaqui Trading,NL,Netherlands,Online,8000,14,Active
+C0199,Vecorsa Sports,PT,Portugal,Wholesale,90000.0,14,Active
+C0200,Mimipor Cycles,PT,Portugal,Retail,22500.0,30,On Hold
+C0201,Corberdo Trading,ES,Spain,Retail,15000,45,Active
+C0202,Ravelcor Ride Shop,GB,United Kingdom,Retail,30000,60,Active
+C0203,Porvelmi Trading,GB,United Kingdom,Retail,15000,30,Active
+C0204,Taporma Ride Shop,DE,Germany,Retail,7500.0,14,Active
+C0205,Lorasa Ride Shop,PT,Portugal,Wholesale,90000.0,45,Active
+C0206,Domipor Cycles,PT,Portugal,Retail,7500.0,14,Active
+C0207,Porlopor Sports,PT,Portugal,Online,12000.0,30,Active
+C0208,Lonora Bike Co,PT,Portugal,Retail,30000,30,Active
+C0209,Raloqui Bikes,NL,Netherlands,Online,16000,45,Active
+C0210,Tanora Sports,GB,United Kingdom,Online,12000.0,45,Active
+C0211,Vellober Sports,DE,Germany,Wholesale,60000,60,Active
+C0212,Velinlin Outdoor,PT,Portugal,Retail,22500.0,60,Active
+C0213,Salinsa Outdoor,GB,United Kingdom,Online,4000.0,30,Active
+C0214,Velinno Ride Shop,PT,Portugal,Online,4000.0,30,Active
+C0215,Velporlo Ride Shop,ES,Spain,Online,16000,30,Active
+C0216,Porvelma Ride Shop,DE,Germany,Retail,15000,14,Active
+C0217,Ralindo Trading,PT,Portugal,Online,8000,45,Active
+C0218,Dodozen Outdoor,PT,Portugal,Retail,15000,60,Active
+C0219,Veldove Trading,PT,Portugal,Online,8000,14,Active
+C0220,Porsara Sports,GB,United Kingdom,Online,8000,60,Active
+C0221,Vezencor Cycles,ES,Spain,Wholesale,120000,14,Active
+C0222,Mimara Trading,NL,Netherlands,Retail,30000,45,Active
+C0223,Quivezen Sports,NL,Netherlands,Online,4000.0,30,Active
+C0224,Saberta Ride Shop,DE,Germany,Retail,15000,60,Active
+C0225,Talinra Bikes,PT,Portugal,Wholesale,60000,45,Active
+C0226,Lolora Trading,FR,France,Retail,15000,45,Active
+C0227,Linmima Outdoor,DE,Germany,Retail,15000,14,Active
+C0228,Quivelra Ride Shop,PT,Portugal,Retail,15000,30,Active
+C0229,Dololin Bikes,GB,United Kingdom,Wholesale,60000,60,Active
+C0230,Losacor Sports,GB,United Kingdom,Retail,15000,45,Active
+C0231,Quitalin Velo,PT,Portugal,Wholesale,60000,14,Active
+C0232,Pormipor Ride Shop,PT,Portugal,Wholesale,30000.0,60,Active
+C0233,Porraber Cycles,NL,Netherlands,Retail,22500.0,14,Active
+C0234,Lolinmi Velo,NL,Netherlands,Online,16000,30,Active
+C0235,Mavello Bikes,DE,Germany,Retail,22500.0,30,Active
+C0236,Corlober Ride Shop,FR,France,Retail,22500.0,30,On Hold
+C0237,Porvequi Bikes,ES,Spain,Retail,15000,30,Active
+C0238,Lincorlin Outdoor,PT,Portugal,Retail,15000,30,Active
+C0239,Velmaber Outdoor,GB,United Kingdom,Wholesale,60000,60,Active
+C0240,Lovelve Sports,ES,Spain,Retail,7500.0,60,Active
+C0241,Berlinsa Velo,NL,Netherlands,Retail,7500.0,14,Active
+C0242,Linmimi Cycles,FR,France,Wholesale,30000.0,45,Active
+C0243,Porrara Cycles,NL,Netherlands,Wholesale,30000.0,30,Active
+C0244,Dosave Bikes,ES,Spain,Wholesale,60000,60,Active
+C0245,Ramima Bikes,ES,Spain,Retail,30000,30,Active
+C0246,Quivelcor Velo,ES,Spain,Retail,30000,30,Active
+C0247,Savelcor Bikes,PT,Portugal,Wholesale,60000,14,Active
+C0248,Zenberlin Bike Co,PT,Portugal,Wholesale,60000,45,Active
+C0249,Corlinvel Outdoor,NL,Netherlands,Retail,15000,14,Active
+C0250,Miporlin Ride Shop,PT,Portugal,Wholesale,60000,14,Active
+C0251,Corlodo Sports,ES,Spain,Retail,7500.0,14,Active
+C0252,Pormalo Trading,FR,France,Wholesale,30000.0,60,Active
+C0253,Vequiber Outdoor,DE,Germany,Retail,15000,14,On Hold
+C0254,Mapordo Cycles,FR,France,Retail,15000,30,Active
+C0255,Quiquivel Bike Co,ES,Spain,Online,8000,30,Active
+C0256,Corporpor Bike Co,PT,Portugal,Online,4000.0,60,Active
+C0257,Velsaqui Cycles,PT,Portugal,Retail,22500.0,60,Active
+C0258,Lotalo Outdoor,PT,Portugal,Wholesale,30000.0,30,On Hold
+C0259,Milindo Trading,GB,United Kingdom,Online,8000,45,Active
+C0260,Corcorlin Sports,ES,Spain,Retail,15000,30,Active
+C0261,Noberno Sports,PT,Portugal,Wholesale,30000.0,30,Active
+C0262,Lolinqui Sports,GB,United Kingdom,Wholesale,60000,30,Active
+C0263,Loracor Trading,ES,Spain,Retail,22500.0,14,Active
+C0264,Misasa Bike Co,PT,Portugal,Online,8000,14,Active
+C0265,Miporno Velo,PT,Portugal,Online,8000,45,Active
+C0266,Bersalo Bike Co,PT,Portugal,Retail,7500.0,30,Active
+C0267,Raquimi Cycles,FR,France,Retail,7500.0,45,Active
+C0268,Velsama Ride Shop,FR,France,Online,4000.0,14,Active
+C0269,Notasa Ride Shop,PT,Portugal,Online,4000.0,30,Active
+C0270,Dodoqui Bikes,PT,Portugal,Wholesale,60000,14,Active
+C0271,Berporzen Cycles,PT,Portugal,Online,8000,30,Active
+C0272,Zenmima Sports,ES,Spain,Retail,7500.0,14,Active
+C0273,Tacordo Outdoor,FR,France,Retail,30000,14,Active
+C0274,Milinpor Velo,FR,France,Retail,22500.0,60,Active
+C0275,Mamipor Cycles,FR,France,Online,16000,30,Active
+C0276,Milozen Sports,NL,Netherlands,Retail,15000,14,On Hold
+C0277,Berlinlo Outdoor,ES,Spain,Online,12000.0,14,Active
+C0278,Tapordo Trading,ES,Spain,Retail,30000,60,Active
+C0279,Quiporlo Ride Shop,FR,France,Retail,15000,60,Active
+C0280,Zenmalin Ride Shop,PT,Portugal,Retail,15000,45,Active
+C0281,Docorqui Trading,DE,Germany,Retail,22500.0,45,Active
+C0282,Linvellin Velo,PT,Portugal,Wholesale,90000.0,45,Active
+C0283,Bernota Outdoor,FR,France,Retail,30000,45,Active
+C0284,Doveber Sports,ES,Spain,Wholesale,30000.0,60,Active
+C0285,Porlinma Outdoor,FR,France,Wholesale,60000,30,Active
+C0286,Corvelvel Sports,NL,Netherlands,Wholesale,120000,60,Active
+C0287,Maberpor Sports,NL,Netherlands,Retail,15000,14,Active
+C0288,Vedono Bike Co,ES,Spain,Retail,15000,60,Active
+C0289,Velbersa Cycles,ES,Spain,Retail,30000,45,Active
+C0290,Corzenqui Trading,FR,France,Retail,15000,45,Active
+C0291,Norasa Velo,GB,United Kingdom,Retail,15000,60,Active
+C0292,Velnove Bike Co,FR,France,Online,8000,30,Active
+C0293,Tarapor Trading,FR,France,Retail,15000,30,Active
+C0294,Salovel Velo,DE,Germany,Wholesale,120000,45,Active
+C0295,Linlovel Trading,FR,France,Online,16000,14,Active
+C0296,Raralo Cycles,ES,Spain,Online,8000,45,Active
+C0297,Maporcor Bikes,FR,France,Wholesale,30000.0,30,Active
+C0298,Porvelo Ride Shop,PT,Portugal,Retail,15000,45,On Hold
+C0299,Berquive Sports,FR,France,Online,8000,14,Active
+C0300,Berquipor Bikes,DE,Germany,Retail,22500.0,60,Active
+C0301,Sasama Trading,DE,Germany,Online,4000.0,60,Active
+C0302,Milolo Bike Co,DE,Germany,Wholesale,90000.0,14,Active
+C0303,Noberlo Ride Shop,PT,Portugal,Wholesale,120000,45,Active
+C0304,Veberve Ride Shop,PT,Portugal,Retail,22500.0,30,Active
+C0305,Minota Bike Co,DE,Germany,Retail,15000,14,Active
+C0306,Corpordo Sports,PT,Portugal,Retail,22500.0,45,Active
+C0307,Zenvelsa Cycles,FR,France,Retail,22500.0,14,Active
+C0308,Vedolin Ride Shop,PT,Portugal,Wholesale,90000.0,60,Active
+C0309,Vesacor Ride Shop,FR,France,Retail,15000,45,Active
+C0310,Nobersa Cycles,PT,Portugal,Retail,30000,30,Active
+C0311,Vemimi Bike Co,PT,Portugal,Retail,7500.0,14,Active
+C0312,Lonober Velo,ES,Spain,Retail,30000,60,Active
+C0313,Berdono Velo,ES,Spain,Retail,30000,30,Active
+C0314,Pormara Sports,PT,Portugal,Retail,15000,45,Active
+C0315,Quizenma Velo,GB,United Kingdom,Online,8000,45,Active
+C0316,Zenbercor Velo,DE,Germany,Retail,15000,30,Active
+C0317,Quimicor Trading,FR,France,Retail,30000,60,Active
+C0318,Veltado Trading,DE,Germany,Retail,22500.0,14,Active
+C0319,Lomaqui Sports,DE,Germany,Online,4000.0,14,Active
+C0320,Quivelber Trading,PT,Portugal,Retail,7500.0,14,Active
+C0321,Maporcor Outdoor,GB,United Kingdom,Wholesale,90000.0,60,Active
+C0322,Taporcor Bike Co,DE,Germany,Retail,30000,45,Active
+C0323,Vellincor Trading,GB,United Kingdom,Retail,30000,14,Active
+C0324,Masata Outdoor,NL,Netherlands,Retail,30000,60,Active
+C0325,Velmizen Outdoor,DE,Germany,Wholesale,60000,14,Active
+C0326,Tavera Sports,DE,Germany,Online,8000,14,Active
+C0327,Quinomi Velo,FR,France,Retail,22500.0,14,Active
+C0328,Corvelin Sports,FR,France,Wholesale,120000,30,Active
+C0329,Ravelqui Sports,ES,Spain,Retail,22500.0,30,On Hold
+C0330,Docorra Trading,GB,United Kingdom,Retail,30000,60,Active
+C0331,Berlovel Bikes,PT,Portugal,Retail,15000,60,Active
+C0332,Velquino Trading,FR,France,Online,12000.0,30,Active
+C0333,Berzenlo Ride Shop,PT,Portugal,Retail,22500.0,60,Active
+C0334,Corvepor Bike Co,PT,Portugal,Wholesale,90000.0,30,Active
+C0335,Corvemi Bike Co,PT,Portugal,Wholesale,60000,60,On Hold
+C0336,Lozenpor Cycles,PT,Portugal,Wholesale,30000.0,60,Active
+C0337,Raberra Bike Co,FR,France,Retail,15000,45,Active
+C0338,Velzenma Bikes,NL,Netherlands,Online,12000.0,45,Active
+C0339,Lonono Bikes,PT,Portugal,Wholesale,60000,60,Active
+C0340,Novellin Bikes,ES,Spain,Retail,15000,14,Active
+C0341,Ratami Ride Shop,FR,France,Retail,30000,30,Active
+C0342,Bersalo Sports,NL,Netherlands,Retail,22500.0,60,Active
+C0343,Nolinlo Bike Co,GB,United Kingdom,Online,4000.0,60,Active
+C0344,Linsazen Ride Shop,PT,Portugal,Wholesale,90000.0,14,On Hold
+C0345,Velocor Sports,ES,Spain,Wholesale,60000,60,Active
+C0346,Quilinlo Sports,GB,United Kingdom,Wholesale,60000,45,Active
+C0347,Velsata Bikes,PT,Portugal,Online,16000,14,Active
+C0348,Vellinsa Bike Co,GB,United Kingdom,Wholesale,60000,14,Active
+C0349,Vetami Bike Co,DE,Germany,Retail,15000,45,Active
+C0350,Loporta Bike Co,ES,Spain,Online,4000.0,45,Active
+C0351,Corvema Sports,NL,Netherlands,Wholesale,120000,30,Active
+C0352,Dodono Velo,FR,France,Online,16000,30,Active
+C0353,Berberno Bikes,FR,France,Online,4000.0,14,Active
+C0354,Cormilin Trading,FR,France,Wholesale,30000.0,30,On Hold
+C0355,Tadomi Sports,GB,United Kingdom,Retail,7500.0,30,Active
+C0356,Dolinzen Outdoor,ES,Spain,Wholesale,30000.0,60,Active
+C0357,Velberqui Bikes,ES,Spain,Wholesale,30000.0,30,Active
+C0358,Quivelmi Outdoor,ES,Spain,Online,12000.0,60,Active
+C0359,Corzenpor Sports,PT,Portugal,Wholesale,90000.0,30,Active
+C0360,Bermizen Sports,GB,United Kingdom,Retail,15000,14,Active
+C0361,Dorasa Velo,PT,Portugal,Retail,15000,14,Active
+C0362,Linlinber Cycles,PT,Portugal,Retail,7500.0,60,Active
+C0363,Sacorvel Outdoor,DE,Germany,Wholesale,60000,60,Active
+C0364,Micorra Trading,GB,United Kingdom,Wholesale,60000,14,Active
+C0365,Doberlo Bike Co,PT,Portugal,Retail,7500.0,30,Active
+C0366,Dolinsa Sports,DE,Germany,Wholesale,90000.0,60,Active
+C0367,Venober Sports,GB,United Kingdom,Retail,15000,30,Active
+C0368,Vetalin Bike Co,DE,Germany,Retail,22500.0,14,Active
+C0369,Tamaber Bikes,GB,United Kingdom,Retail,30000,30,Active
+C0370,Velsazen Ride Shop,PT,Portugal,Retail,15000,60,Active
+C0371,Linralin Sports,PT,Portugal,Wholesale,60000,45,Active
+C0372,Sanopor Bike Co,PT,Portugal,Retail,22500.0,30,Active
+C0373,Venomi Bike Co,ES,Spain,Wholesale,120000,45,Active
+C0374,Velono Outdoor,DE,Germany,Retail,15000,30,Active
+C0375,Taravel Trading,ES,Spain,Retail,15000,14,Active
+C0376,Donolin Bike Co,ES,Spain,Retail,30000,30,Active
+C0377,Zenlinlin Bike Co,PT,Portugal,Retail,15000,45,Active
+C0378,Mazenlin Bikes,ES,Spain,Wholesale,90000.0,14,Active
+C0379,Notazen Bikes,FR,France,Wholesale,90000.0,30,Active
+C0380,Zenvesa Outdoor,PT,Portugal,Wholesale,60000,60,Active
+C0381,Vetavel Bikes,NL,Netherlands,Wholesale,60000,45,Active
+C0382,Veporra Trading,GB,United Kingdom,Retail,15000,30,Active
+C0383,Linlota Cycles,ES,Spain,Wholesale,30000.0,45,Active
+C0384,Corcorvel Ride Shop,DE,Germany,Retail,15000,30,Active
+C0385,Tamano Outdoor,PT,Portugal,Wholesale,120000,14,Active
+C0386,Vetavel Ride Shop,PT,Portugal,Online,8000,45,Active
+C0387,Vecordo Bikes,DE,Germany,Wholesale,30000.0,14,Active
+C0388,Noberber Cycles,FR,France,Retail,15000,30,Active
+C0389,Lomima Ride Shop,DE,Germany,Retail,15000,45,Active
+C0390,Vellinve Cycles,ES,Spain,Retail,30000,60,Active
+C0391,Tazensa Outdoor,PT,Portugal,Retail,15000,30,Active
+C0392,Velzenvel Velo,NL,Netherlands,Retail,30000,14,Active
+C0393,Nomita Velo,ES,Spain,Retail,7500.0,60,Active
+C0394,Lovelqui Cycles,PT,Portugal,Retail,15000,14,Active
+C0395,Zenmapor Sports,PT,Portugal,Wholesale,60000,45,Active
+C0396,Notama Ride Shop,ES,Spain,Wholesale,90000.0,45,Active
+C0397,Lincorlin Ride Shop,FR,France,Online,12000.0,60,Active
+C0398,Lololo Cycles,FR,France,Online,12000.0,45,On Hold
+C0399,Manota Velo,GB,United Kingdom,Retail,22500.0,45,Active
+C0400,Lozenve Velo,ES,Spain,Wholesale,60000,60,On Hold
